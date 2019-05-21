@@ -11,7 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * list to print each name.
 
  * @author Sivagama
- */
+   May 21st,2019 */
 public class StudentTester {
     public static void main(String[] args)
     {
