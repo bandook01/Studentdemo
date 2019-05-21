@@ -10,7 +10,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student has: a name (first and last name)
  * each student can: say their name (getName)
 
- * @author Sivagama
+ * @author Sivagama srinivasan
  */
 public class StudentDemo {
 
